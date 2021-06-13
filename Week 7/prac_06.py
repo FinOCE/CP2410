@@ -86,3 +86,8 @@ market
 from linked_binary_tree import LinkedBinaryTree
 
 tree = LinkedBinaryTree()
+
+# I could not find the way to insert into the linked binary tree
+# so I have no way of confirming my previous questions were done
+# correctly. The solutions file is just a duplicate of the questions
+# so I couldn't check that either.
